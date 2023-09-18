@@ -1,0 +1,43 @@
+# Neural FCA
+
+A big homework to merge [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
+and [Formal Concept Analysis](https://en.wikipedia.org/wiki/Formal_concept_analysis).
+Created for the course Ordered Sets in Data Analysis (GitHub [repo](https://github.com/EgorDudyrev/OSDA_course))
+taught in Data Science Master programme in HSE University, Moscow. 
+
+![Example of a network build upon Fruits dataset](https://github.com/EgorDudyrev/OSDA_course/blob/Autumn_2022/neural_fca/fitted_network.png)
+
+
+A big homework to merge Neural Networks (https://en.wikipedia.org/wiki/Artificial_neural_network) and Formal Concept Analysis (https://en.wikipedia.org/wiki/Formal_concept_analysis). Created for the course Ordered Sets in Data Analysis (GitHub repo) taught in Data Science Master programme in HSE University, Moscow.
+
+# OSDA 2023 Neural FCA
+_**!THE CODE IS NOT READY YET!\
+!YOU WILL BE NOTIFIED THROUGH TELEGRAM WHEN IT'S DONE!**_
+
+_**NB: More updates to come**_
+
+This repository contains tools for a "*Neural FCA**" big homework assignment for the course "Ordered Sets in Data Analysis" taught at HSE in the "Data Science" master's program in Fall 2023.
+
+
+### To-do list
+_**!FOR NOW PAY ATTENTION TO STEPS 1-2; STEPS 3-4 WILL BE UPDATED WITH MORE CLARIFICATIONS!\
+!YOU WILL BE NOTIFIED THROUGH TELEGRAM WHEN IT'S DONE!**_
+1. Choose at least 3 datasets (Kaggle, UCI, etc.), define the target attribute, binarize data and describe scaling (binarization) strategy for the dataset features.
+(Ideal dataset: openly available, with various data types with hundreds of rows.)\
+Useful resources:
+* [Kaggle](https://www.kaggle.com/)
+* [UCI repository](https://archive.ics.uci.edu/datasets)
+2. Perform classification using standard ML tools:
+* [Decision tree](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) 
+* [Random forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html#sklearn.ensemble.RandomForestClassifier)
+* [xGboost](https://xgboost.readthedocs.io/en/latest/)
+* [Catboost](https://catboost.ai/)
+* [k-NN](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
+* [Naive Bayes](https://scikit-learn.org/stable/modules/naive_bayes.html)
+* [logistic regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html#sklearn.linear_model.LogisticRegression)
+3. Describe prediction quality measure best suited for the dataset (e.g. accuracy, F1 score, or any quality measure best suited for the dataset; fit and test the network on your task.\
+4. Try  to improve the basic baseline with different ways such that:
+  - better scaling algorithm to binarize the original data;
+  - use various techniques to select best concepts from the concept lattice;
+  - try various nonlinearities to put in the network.
+5.  Submit a report with comparison of all models, both standard and developed by you.
