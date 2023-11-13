@@ -31,7 +31,7 @@ Useful resources:
 * [k-NN](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 * [Naive Bayes](https://scikit-learn.org/stable/modules/naive_bayes.html)
 * [logistic regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html#sklearn.linear_model.LogisticRegression)
-3. Describe prediction quality measure best suited for the dataset (e.g. accuracy, F1 score, or any quality measure best suited for the dataset; fit and test the network on your task.\
+3. Describe prediction quality measure best suited for the dataset (e.g. accuracy, F1 score, or any quality measure best suited for the dataset; fit and test the network on your task.
 4. Try  to improve the basic baseline with different ways such that:
   - better scaling algorithm to binarize the original data;
   - use various techniques to select best concepts from the concept lattice;
