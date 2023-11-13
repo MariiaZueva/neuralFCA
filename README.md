@@ -7,25 +7,17 @@ taught in Data Science Master programme in HSE University, Moscow.
 
 ![Example of a network build upon Fruits dataset](https://github.com/EgorDudyrev/OSDA_course/blob/Autumn_2022/neural_fca/fitted_network.png)
 
-
-A big homework to merge Neural Networks (https://en.wikipedia.org/wiki/Artificial_neural_network) and Formal Concept Analysis (https://en.wikipedia.org/wiki/Formal_concept_analysis). Created for the course Ordered Sets in Data Analysis (GitHub repo) taught in Data Science Master programme in HSE University, Moscow.
-
 # Description
 There is a need for interpretability in the AI field. It is usually hard to interpret the performance of neural networks. But there is an approach to create an interpretable neural network architecture based on the covering relation (graph of the diagram) of a lattice coming from monotone Galois connections. The vertices of such neural networks are related to sets of similar objects with similarity given by their common attributes, so easily interpretable. The edges between vertices are also easily interpretable in terms of concept generality (bottom-up) or conditional probability (top-bottom).
 
 
 # OSDA 2023 Neural FCA
-_**!THE CODE IS NOT READY YET!\
-!YOU WILL BE NOTIFIED THROUGH TELEGRAM WHEN IT'S DONE!**_
-
-_**NB: More updates to come**_
 
 This repository contains tools for a "*Neural FCA**" big homework assignment for the course "Ordered Sets in Data Analysis" taught at HSE in the "Data Science" master's program in Fall 2023.
 
 
 ### To-do list
-_**!FOR NOW PAY ATTENTION TO STEPS 1-2; STEPS 3-4 WILL BE UPDATED WITH MORE CLARIFICATIONS!\
-!YOU WILL BE NOTIFIED THROUGH TELEGRAM WHEN IT'S DONE!**_
+
 1. Choose at least 3 datasets (Kaggle, UCI, etc.), define the target attribute, binarize data and describe scaling (binarization) strategy for the dataset features.
 (Ideal dataset: openly available, with various data types with hundreds of rows.)\
 Useful resources:
