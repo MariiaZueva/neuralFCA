@@ -38,5 +38,5 @@ Useful resources:
   - try various nonlinearities to put in the network.
 5.  Submit a report with comparison of all models, both standard and developed by you.
 
-References
+### References
 1. Kuznetsov, Sergei O., Nurtas Makhazhanov, and Maxim Ushakov. "On neural network architecture based on concept lattices." Foundations of Intelligent Systems: 23rd International Symposium, ISMIS 2017, Warsaw, Poland, June 26-29, 2017, Proceedings 23. Springer International Publishing, 2017.
