@@ -22,18 +22,21 @@ This repository contains tools for a "*Neural FCA**" big homework assignment for
 (Ideal dataset: openly available, with various data types with hundreds of rows.)\
 Useful resources:
 * [Kaggle](https://www.kaggle.com/)
-* [UCI repository](https://archive.ics.uci.edu/datasets)
+* [UCI Repository](https://archive.ics.uci.edu/datasets)
 2. Perform classification using standard ML tools:
-* [Decision tree](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) 
-* [Random forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html#sklearn.ensemble.RandomForestClassifier)
-* [xGboost](https://xgboost.readthedocs.io/en/latest/)
-* [Catboost](https://catboost.ai/)
-* [k-NN](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
+* [Decision Tree](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) 
+* [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html#sklearn.ensemble.RandomForestClassifier)
+* [XGBoost](https://xgboost.readthedocs.io/en/latest/)
+* [CatBoost](https://catboost.ai/)
+* [KNN](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html)
 * [Naive Bayes](https://scikit-learn.org/stable/modules/naive_bayes.html)
-* [logistic regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html#sklearn.linear_model.LogisticRegression)
+* [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html#sklearn.linear_model.LogisticRegression)
 3. Describe prediction quality measure best suited for the dataset (e.g. accuracy, F1 score, or any quality measure best suited for the dataset; fit and test the network on your task.
 4. Try  to improve the basic baseline with different ways such that:
   - better scaling algorithm to binarize the original data;
   - use various techniques to select best concepts from the concept lattice;
   - try various nonlinearities to put in the network.
 5.  Submit a report with comparison of all models, both standard and developed by you.
+
+References
+1. Kuznetsov, Sergei O., Nurtas Makhazhanov, and Maxim Ushakov. "On neural network architecture based on concept lattices." Foundations of Intelligent Systems: 23rd International Symposium, ISMIS 2017, Warsaw, Poland, June 26-29, 2017, Proceedings 23. Springer International Publishing, 2017.
