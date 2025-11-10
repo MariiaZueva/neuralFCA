@@ -14,8 +14,8 @@ This repository contains tools for a "**Neural FCA**" big homework assignment fo
 
 ### To-do list
 
-1. Choose at least 3 datasets (Kaggle, UCI, etc.), define the target attribute, binarize data and describe scaling (binarization) strategy for the dataset features.
-(Ideal dataset: openly available, with various data types with hundreds of rows.)\
+1. Choose a dataset (Kaggle, etc.), define the target attribute, binarize data and describe scaling (binarization) strategy for the dataset features.
+(Ideal dataset: openly available, with various data types with hundreds of rows.)
 
 2. Perform classification using standard ML tools (at least 4), explain your choice. For example:
 - K Nearest Neighbor (kNN)
@@ -32,16 +32,19 @@ This repository contains tools for a "**Neural FCA**" big homework assignment fo
   - better scaling algorithm to binarize the original data;
   - use various techniques to select best concepts from the concept lattice;
   - propose your own modification of this nn's architecture.
+    
 5.  Submit a report with comparison of all models, both standard and developed by you. Analyse your results.
 
 
 Grading system (out of 10):
-- Performing steps 1-6 will grants a maximum of 3/10.
-- Improving on the algorithm grants a maximum of 2/10.
-- Intepretability analysis grants a maximum of 2/10.
+- Performing steps 1-5 grants a maximum of 1/10.
+- Improving of the performance grants a maximum of 2/10.
+- Proper report with analysis of the results grants a maximum of 3/10.
+- Improving the nn's architecture grants a maximum of 1/10.
 - Presenting the work grants a maximum of 3/10.
-- (p.s.!!!) Not uploading the report before the deadline will result in a 0 mark.
+- (p.s.!!!) Not uploading the report before the deadline/cheating will result in a 0 mark. 
 
 
 ### References
 1. Kuznetsov, Sergei O., Nurtas Makhazhanov, and Maxim Ushakov. "On neural network architecture based on concept lattices." Foundations of Intelligent Systems: 23rd International Symposium, ISMIS 2017, Warsaw, Poland, June 26-29, 2017, Proceedings 23. Springer International Publishing, 2017.
+2. Kuznetsov, S. O., & Makhalova, T. (2018). On interestingness measures of formal concepts. Information Sciences, 442, 202-219.
