@@ -48,3 +48,4 @@ Grading system (out of 10):
 ### References
 1. Kuznetsov, Sergei O., Nurtas Makhazhanov, and Maxim Ushakov. "On neural network architecture based on concept lattices." Foundations of Intelligent Systems: 23rd International Symposium, ISMIS 2017, Warsaw, Poland, June 26-29, 2017, Proceedings 23. Springer International Publishing, 2017.
 2. Kuznetsov, S. O., & Makhalova, T. (2018). On interestingness measures of formal concepts. Information Sciences, 442, 202-219.
+3. https://github.com/EgorDudyrev/FCApy
