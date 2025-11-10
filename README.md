@@ -1,7 +1,7 @@
 # Neural FCA
 
-A big homework to merge [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
-and [Formal Concept Analysis](https://en.wikipedia.org/wiki/Formal_concept_analysis).
+A big homework to merge neural networks
+and Formal Concept Analysis.
 
 ![Example of a network build upon Fruits dataset](https://github.com/EgorDudyrev/OSDA_course/blob/Autumn_2022/neural_fca/fitted_network.png)
 
