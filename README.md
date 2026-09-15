@@ -7,9 +7,9 @@ and Formal Concept Analysis.
 There is a need for interpretability in the AI field. It is usually hard to interpret the performance of neural networks. But there is an approach to create an interpretable neural network architecture based on the covering relation (graph of the diagram) of a lattice coming from monotone Galois connections. The vertices of such neural networks are related to sets of similar objects with similarity given by their common attributes, so easily interpretable. The edges between vertices are also easily interpretable in terms of concept generality (bottom-up) or conditional probability (top-bottom).
 
 
-# OSDA 2025 Neural FCA
+# OSDA 2026 Neural FCA
 
-This repository contains tools for a "**Neural FCA**" big homework assignment for the course "Ordered Sets in Data Analysis" taught at HSE in the "Data Science" master's program in Fall 2023.
+This repository contains tools for a "**Neural FCA**" big homework assignment for the course "Ordered Sets in Data Analysis" taught at HSE in the "Data Science" master's program in Fall 2026.
 
 
 ### To-do list
